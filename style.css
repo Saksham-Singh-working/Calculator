@@ -1,0 +1,117 @@
+body{
+    background-color: #22162B;
+}
+#container{
+    background-color: #724E91;
+    width:400px;
+    height: 600px;
+    border-radius: 20px;
+    margin: 50px auto;
+    padding: 10px;
+}
+#screen{
+    background-color: white;
+    width:370px;
+    height: 150px;
+    border-radius: 20px;
+    margin:10px auto;
+}
+#top_row{
+    width: 100%;
+}
+.button{
+    border:none;
+    width: 70px;
+    height:70px;
+    border-radius: 50%;
+    font-size: x-large;
+}
+.yellow{
+    background-color: #F8C630;
+
+}
+#backspace{
+    margin-right: 15px;
+}
+#c{
+    margin-right: 15px;
+}
+#equal{
+    margin-right: 20px;
+}
+#top_row{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+#second_row{
+    margin-top:10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+#plus{
+    margin-right:20px;
+}
+#nine{
+    margin-right: 90px;
+}
+#eight{
+    margin-right: 15px;
+}
+#seven{
+    margin-right: 15px;
+}
+#third_row{
+    margin-top:10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+#minus{
+    margin-right:20px;
+}
+#six{
+    margin-right: 90px;
+}
+#five{
+    margin-right: 15px;
+}
+#four{
+    margin-right: 15px;
+}
+#fourth_row{
+    margin-top:10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+#x{
+    margin-right:20px;
+}
+#three{
+    margin-right: 90px;
+}
+#two{
+    margin-right: 15px;
+}
+#one{
+    margin-right: 15px;
+}
+#fifth_row{
+    margin-top:10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+#divide{
+    margin-right:20px;
+}
+#zero{
+    margin-right: 165px;
+}
+#screen{
+    font-size: xxx-large;
+    text-align: right;
+    line-height: 500%;
+}
